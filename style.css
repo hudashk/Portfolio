@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
+*{
+    font-family: 'Lora', serif;
+}
+body{
+    padding-top: 100px;
+}
+
+.navbar ul li a:hover{
+    color: palevioletred;
+}  
+.background{
+    background-color: palevioletred;
+}
